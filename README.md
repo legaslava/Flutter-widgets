@@ -1,4 +1,4 @@
-# flutter-widgets-novitskyi
+# flutter-widgets
 
 Flutter-додаток `mobile_widgets_app` з власними віджетами, анімаціями та state management (практична робота 5: «Розробка віджетів у Flutter»).
 
